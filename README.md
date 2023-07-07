@@ -1,4 +1,4 @@
-
+<h2>Roger Rosa -  Frontend React</h2>
 Programador com mais de 3 anos de experiência no desenvolvimento de aplicações Web, com foco em tecnologias como React, Next, TypeScript e Node.
 
 Tenho uma paixão pela minha profissão e meu maior prazer é poder criar aplicações que as pessoas adorem usar.
